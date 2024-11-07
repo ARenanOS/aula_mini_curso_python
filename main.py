@@ -17,8 +17,8 @@ import DAO
 # print(saida)
 
 
-saida = DAO.buscar_usuario_id(3)
-print(saida)
+#saida = DAO.buscar_usuario_id(3)
+#print(saida)
 
 
 # Teste de atualização
